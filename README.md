@@ -50,8 +50,11 @@ Body:
 {"customerName":"Tom","orderDate":"27 AUG 2020","shippingAddress":"#15 Orchard Road, Singapore","orderItems":"1","total":100}
 Response: (Status: 201 Created)
   
+
 4.	Service URL: http://localhost:8090/order/all 
+
 Response: (Status: 200 OK)
+
 
 [{"customerId":1,"customerName":"Lee","orderDate":"22 AUG 2020","shippingAddress":"#10 Ang Mo Kio Street, Singapore","orderItems":"10","total":10},{"customerId":2,"customerName":"Gokul","orderDate":"27 AUG 2020","shippingAddress":"#10 Rafles Place, Singapore","orderItems":"50","total":10},{"customerId":3,"customerName":"Tom","orderDate":"27 AUG 2020","shippingAddress":"#15 Orchard Road, Singapore","orderItems":"1","total":100}] 
  
